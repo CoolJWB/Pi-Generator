@@ -1,2 +1,2 @@
 # Pi Estimator
-Estimates pi with AGM in Python.
+Estimates pi to 314 decimals with AGM in Python.
